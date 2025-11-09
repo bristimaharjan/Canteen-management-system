@@ -6,10 +6,11 @@ Streaming Content Operative for Services
 
 ## Built with the tools and technologies
 - Java (Spring Boot)
-- MySQL (or other databases)
-- Maven / Gradle
+- MySQL 
+- Gradle
 - RESTful APIs
-- (Add any other technologies or frameworks used)
+- React(Next.js)
+- Node js
 
 ---
 
@@ -58,9 +59,13 @@ spring.datasource.password=yourpassword
 
 CREATE DATABASE canteen_db
 ```
-5. **Run the application:**
+5.**Build gradel:**
+```bash
+gradle build
+```
+6. **Run the application:**
 ```bash
 npm run dev
-   
+```
 
 [canteen-mgmfinal documentation.pdf](https://github.com/user-attachments/files/18922771/canteen-mgmfinal.documentation.pdf)
