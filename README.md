@@ -28,6 +28,11 @@ The Canteen Management System is a robust backend application built with Spring 
 
 ---
 
+## Screenshots
+<img width="1045" height="540" alt="image" src="https://github.com/user-attachments/assets/400e4964-f55e-4cab-9304-22b4e19d49c3" />
+
+
+
 ## Getting Started
 
 ### Prerequisites
